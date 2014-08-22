@@ -1,0 +1,27 @@
+{
+  "name": "fv-toolbar",
+  "repo": "pavelhurt/fv-toolbar",
+  "description": "feaven toolbar",
+  "version": "0.0.1",
+  "keywords": [
+    "fv-toolbar",
+    "feaven",
+    "fv",
+    "toolbar"
+  ],
+  "dependencies": {},
+  "development": {
+    "yyx990803/vue": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "templates": [
+    "template.html"
+  ],
+  "styles": [
+    "fv-toolbar.css"
+  ]
+}
