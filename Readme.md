@@ -11,9 +11,13 @@
 
 ## Demo
 
-  1. into fv-toolbar
-  2. run`$ component build`
-  3. open demo.html in your browser
+  1.into fv-toolbar
+
+  2.run
+
+    $ component build
+
+  3.open demo.html in your browser
 
 ## API
 

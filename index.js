@@ -1,3 +1,3 @@
 module.exports = {
-    template: require('./template.html')
-}
+    template: "<content></content>"
+};
